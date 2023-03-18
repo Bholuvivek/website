@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(47, 133, 145);
+}
+h1{
+    font-size: 40px;
+    font-style: italic;
+    background-color: rgb(245, 57, 135);
+    color: rgb(0, 0, 0);
+    
+}
+img{
+    width:70%;
+    height:370px;
+}
+ul{
+    
+    font-size: 25px;
+    
+}
+#imgi{
+    width:70%;
+    height: 340px;
+}
